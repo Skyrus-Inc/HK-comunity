@@ -1,7 +1,7 @@
 # Idiomas 
-[1•pt-BR](https://github.com/Skyrus-Inc/HK-comunity/new/main?readme=1#-pt-br)
+1•[pt-BR](#-pt-br)
 <br>
-[2•en-US](https://github.com/Skyrus-Inc/HK-comunity/new/main?readme=1#-en-us)
+2•[en-US](#-en-us)
 
 # 🇧🇷 pt-BR
 
